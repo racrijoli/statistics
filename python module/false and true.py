@@ -1,1 +1,0 @@
-False and True == False
